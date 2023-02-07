@@ -19,5 +19,5 @@
     <br>
     <h2>Example Usage</h2>
     <br>
-    <img alt="Example" width="1920" height="1080" src="UsageExample.PNG">
+    <img alt="Example" width="1920" height="1080" src="UsageExample.png">
 </html>
